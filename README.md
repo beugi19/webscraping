@@ -1,2 +1,4 @@
-# webscraping
-Help a growing company set up their online business across the EU by web scraping.
+# VS Electronics: a webscraping project
+
+## The ecommerce domain
+
