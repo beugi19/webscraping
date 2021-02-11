@@ -23,6 +23,10 @@ Currently, e-commerce is booming in Germany. A vast majority of the population h
 
 Both the average conversion rate (purchases/visits) and the average order price are higher than the average in Germany. Also the number of mobile transaction is remarkable, since they make up 40-50% of the total volume. 
 
-The biggest problem faced by German e-commerce in the last years is privacy and security issues. These problems were partly solved via the new European GDPR, which however in turn reduced German e-commerce temporarily by 10%.
+The biggest problem faced by German e-commerce in the last years is privacy and security issues. These problems were partly solved via the new European GDPR, which however in turn reduced German e-commerce temporarily by 10%. Moreover, strict laws on purchase returns have led to an impressive return rate, of up to 70% 
 
 The biggest opportunity for e-commerce consists in the global pandemic, which has forced people to stay at home and only shop online. It is predicted that e-commerce will soar by approximately 15% due to this.
+
+Moreover, the biggest e-commerce market in Germany consists in electronics and media. Therefore it is a great idea for VS Electronics to take this road as well.
+
+All in all, the German e-commerce business appears to be in excellent health and to provide great opportunities in the field.
