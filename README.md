@@ -1,6 +1,6 @@
 # VS Electronics: a webscraping project
 
-## The e-commerce domain
+## The e-commerce domain in Germany
 
 E-commerce was invented around 40 years ago, and has been booming in the last 20. The products are simply displayed on a website, 24/7 and 365 days a year, and can be easily bought with a couple of clicks. E-commerce has helped countless businesses grow with the help of new technologies, faster internet connection speeds, and added payer security features.
 There are three main e-commerce types:
