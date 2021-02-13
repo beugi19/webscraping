@@ -30,3 +30,7 @@ The biggest opportunity for e-commerce consists in the global pandemic, which ha
 Moreover, the biggest e-commerce market in Germany consists in electronics and media. Therefore it is a great idea for VS Electronics to take this road as well.
 
 All in all, the German e-commerce business appears to be in excellent health and to provide great opportunities in the field.
+
+## The concept of webscraping
+
+
