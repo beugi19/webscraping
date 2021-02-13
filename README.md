@@ -33,4 +33,4 @@ All in all, the German e-commerce business appears to be in excellent health and
 
 ## The concept of webscraping
 
-
+The browser processes your request, and 
