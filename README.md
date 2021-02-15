@@ -51,6 +51,9 @@ To import the data, we need requests.get(). We then need json() to parse the dat
 print(data) gives the code of the response. If the download worked correctly, we would get <Response[200]>. <Response[404]> on the other hand means the page doesn't exist. To get the status code (200/404) only, you can also use print(data.status_code).
 
 To write your response to a file, you can do:
+
 file = open("xyz.txt", "w")
+
 file.write(response.text)
+
 file.close()
