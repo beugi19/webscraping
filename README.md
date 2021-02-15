@@ -44,4 +44,13 @@ Beautiful Soup 4 pulls data out of HTML and XML files. Its main aim is to fetch 
 
 The main problem with webscraping is that often websites do not like to have their data harvested automatically. Therefore, they will deny your requests once they have reason to suspect that a bot is doing them (e.g. by doing too many requests in a short period of time). Another important issue is legal problems. It is highly illegal (and unethical) for example to webscrape social networks such as Facebook. For consumer data (e.g. Amazon), it is just illegal to sell the data or any analysis, while it is legal to webscrape for didactical purposes. This is because any commercial entity has high interest in webscraping its rivals' offer in order to compare it with its own. 
 
+## Beautiful Soup: technical details
 
+To import the data, we need requests.get(). We then need json() to parse the data. The data we got is in the form of a dictionary, and we then need to call the key of the value to get the value itself. 
+
+print(data) gives the code of the response. If the download worked correctly, we would get <Response[200]>. <Response[404]> on the other hand means the page doesn't exist. To get the status code (200/404) only, you can also use print(data.status_code).
+
+To write your response to a file, you can do:
+file = open("xyz.txt", "w")
+file.write(response.text)
+file.close()
