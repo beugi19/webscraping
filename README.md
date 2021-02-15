@@ -40,4 +40,8 @@ The browser will then parse this response using the HTTP protocol and display th
 
 What does beautiful soup do? 
 
+Beautiful Soup 4 pulls data out of HTML and XML files. Its main aim is to fetch data and create databases out of it, automatizing a manual process which would be time-consuming and annoying. This allows us to do data mining in a fraction of the time in order to create datasets, test or train algorithms or machine learning models. Sometimes, a website offers API's which are the best way of fetching data. However, sometimes they aren't available or you want to bypass the registration process. 
+
+The main problem with webscraping is that often websites do not like to have their data harvested automatically. Therefore, they will deny your requests once they have reason to suspect that a bot is doing them (e.g. by doing too many requests in a short period of time). Another important issue is legal problems. It is highly illegal (and unethical) for example to webscrape social networks such as Facebook. For consumer data (e.g. Amazon), it is just illegal to sell the data or any analysis, while it is legal to webscrape for didactical purposes. This is because any commercial entity has high interest in webscraping its rivals' offer in order to compare it with its own. 
+
 
