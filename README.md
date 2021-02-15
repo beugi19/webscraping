@@ -33,4 +33,11 @@ All in all, the German e-commerce business appears to be in excellent health and
 
 ## The concept of webscraping
 
-The browser processes your request, and 
+The web works like follows: first of all, you type a domain into your browser. This domain name gets first translated into an IP address via a DNS server. 
+Then, the browser goes ahead and makes a request to the server with the IP address, sending the data via a protocol known as HTTP. 
+After that, the server will send a response, that is, it returns the code to display the website. 
+The browser will then parse this response using the HTTP protocol and display the page. 
+
+What does beautiful soup do? 
+
+
