@@ -57,3 +57,7 @@ file = open("xyz.txt", "w")
 file.write(response.text)
 
 file.close()
+
+## Webscraping Amazon
+
+There are eight categories of products VS Electronics is interested in: monitors, processors, laptops, headphones, smartphones, mouses, cameras and keyboards. For every one of those, we webscraped the first 400 results pages of Amazon.com. 
