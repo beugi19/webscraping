@@ -58,6 +58,12 @@ file.write(response.text)
 
 file.close()
 
+## File Description
+
+soup1.ipynb: the file used to webscrape Amazon for different products.
+
 ## Webscraping Amazon
 
 There are eight categories of products VS Electronics is interested in: monitors, processors, laptops, headphones, smartphones, mouses, cameras and keyboards. For every one of those, we webscraped the first 400 results pages of Amazon.com. 
+
+The aim is to see which products are rated better and whether there is a match between the most-sold products and those with the best reviews.
